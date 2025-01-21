@@ -20,9 +20,6 @@
     "express",
     "multer"
   ],
-  "engines": {
-    "node": ">=14.0.0"
-  },
   "dependencies": {
     "cloudinary": "^1.41.3",
     "dotenv": "^16.4.5",
